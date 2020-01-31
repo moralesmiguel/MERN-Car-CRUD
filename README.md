@@ -4,6 +4,15 @@ Home Page:
 Add Menu:
 ![addmenu](https://user-images.githubusercontent.com/51275356/73564260-caca7a00-4424-11ea-9559-e66b261fffc4.JPG)
 
+Menu to update one:
+![update](https://user-images.githubusercontent.com/51275356/73564425-239a1280-4425-11ea-9918-fed75268b196.JPG)
+
+Menu to update owner on more than one document:
+![updatemany](https://user-images.githubusercontent.com/51275356/73564433-27c63000-4425-11ea-92c8-994b6af6e37b.JPG)
+
+Menu to delete a specific document based on registration ID:
+![delete](https://user-images.githubusercontent.com/51275356/73564442-2c8ae400-4425-11ea-9066-8e1347267679.JPG)
+
 ## Installation
 How to install and access on local machine:
 
